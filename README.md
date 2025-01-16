@@ -1,6 +1,8 @@
+formation
+#### Systems Analyst(2025)
 
-# Systems Analyst
+### Technical Skills: 
+#### Rust, AWS, Linux
 
-#### Technical Skills: Rust, AWS, Linux
-
-####  Others Skills: advanced english
+###  Others Skills: 
+#### advanced english
